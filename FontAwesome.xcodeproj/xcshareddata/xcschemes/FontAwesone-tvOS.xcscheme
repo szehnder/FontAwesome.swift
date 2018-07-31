@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0910"
+   LastUpgradeVersion = "0920"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8401A8D11B39601400269D14"
+               BlueprintIdentifier = "4DF4FB8D1E94581300F03B22"
                BuildableName = "FontAwesome.framework"
-               BlueprintName = "FontAwesome"
-               ReferencedContainer = "container:FontAwesome.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "NO"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8401A8DC1B39601400269D14"
-               BuildableName = "FontAwesomeTests.xctest"
-               BlueprintName = "FontAwesomeTests"
+               BlueprintName = "FontAwesone-tvOS"
                ReferencedContainer = "container:FontAwesome.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -43,26 +29,7 @@
       language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8401A8DC1B39601400269D14"
-               BuildableName = "FontAwesomeTests.xctest"
-               BlueprintName = "FontAwesomeTests"
-               ReferencedContainer = "container:FontAwesome.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8401A8D11B39601400269D14"
-            BuildableName = "FontAwesome.framework"
-            BlueprintName = "FontAwesome"
-            ReferencedContainer = "container:FontAwesome.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -80,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8401A8D11B39601400269D14"
+            BlueprintIdentifier = "4DF4FB8D1E94581300F03B22"
             BuildableName = "FontAwesome.framework"
-            BlueprintName = "FontAwesome"
+            BlueprintName = "FontAwesone-tvOS"
             ReferencedContainer = "container:FontAwesome.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -98,9 +65,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8401A8D11B39601400269D14"
+            BlueprintIdentifier = "4DF4FB8D1E94581300F03B22"
             BuildableName = "FontAwesome.framework"
-            BlueprintName = "FontAwesome"
+            BlueprintName = "FontAwesone-tvOS"
             ReferencedContainer = "container:FontAwesome.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
